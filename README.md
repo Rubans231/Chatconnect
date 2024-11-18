@@ -32,7 +32,7 @@ The project consists of the following core components:
 * **Firebase Integration**: Authentication and Firestore for data storage.
 * **NavHost**: Manages navigation between different screens of the app.
 
-* ![Screenshot 2024-11-18 204714](https://github.com/user-attachments/assets/aebbfa09-5759-4fb2-9c35-ca2541e4e902) ![Screenshot 2024-11-18 204858](https://github.com/user-attachments/assets/f4e02bea-dd7d-4f26-b6c4-14d9de256f0f)
+![Screenshot 2024-11-18 204714](https://github.com/user-attachments/assets/aebbfa09-5759-4fb2-9c35-ca2541e4e902) ![Screenshot 2024-11-18 204858](https://github.com/user-attachments/assets/f4e02bea-dd7d-4f26-b6c4-14d9de256f0f)
 
 
 ## Getting Started
