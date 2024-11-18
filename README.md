@@ -4,8 +4,7 @@ ChatConnect is a simple and interactive messaging application built using Jetpac
 
 # Screenshots
 
-![Screenshot 2024-11-18 204629](https://github.com/user-attachments/assets/a79b5f43-c13c-4607-b060-4e37cac84920)        
-![Screenshot 2024-11-18 204656](https://github.com/user-attachments/assets/36c5d83d-38b7-4430-8bc6-d9366e46b553)
+![Screenshot 2024-11-18 204629](https://github.com/user-attachments/assets/a79b5f43-c13c-4607-b060-4e37cac84920)        ![Screenshot 2024-11-18 204656](https://github.com/user-attachments/assets/36c5d83d-38b7-4430-8bc6-d9366e46b553)
 
 
 
