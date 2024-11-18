@@ -4,8 +4,7 @@ ChatConnect is a simple and interactive messaging application built using Jetpac
 
 # Screenshots
 
-![Screenshot 2024-11-18 204629](https://github.com/user-attachments/assets/a79b5f43-c13c-4607-b060-4e37cac84920) ![Screenshot 2024-11-18 204656](https://github.com/user-attachments/assets/36c5d83d-38b7-4430-8bc6-d9366e46b553)![Screenshot 2024-11-18 204714](https://github.com/user-attachments/assets/aebbfa09-5759-4fb2-9c35-ca2541e4e902)
-![Screenshot 2024-11-18 204858](https://github.com/user-attachments/assets/f4e02bea-dd7d-4f26-b6c4-14d9de256f0f)
+![Screenshot 2024-11-18 204629](https://github.com/user-attachments/assets/a79b5f43-c13c-4607-b060-4e37cac84920) ![Screenshot 2024-11-18 204656](https://github.com/user-attachments/assets/36c5d83d-38b7-4430-8bc6-d9366e46b553)
 
 
 
@@ -19,6 +18,8 @@ Real-time Messaging: Send and receive messages instantly.
 User Management: Sign up, log in, and navigate between screens.
 
 Firebase Integration: Firebase Authentication for secure sign-in and Firestore for storing messages.
+
+![Screenshot 2024-11-18 204714](https://github.com/user-attachments/assets/aebbfa09-5759-4fb2-9c35-ca2541e4e902) ![Screenshot 2024-11-18 204858](https://github.com/user-attachments/assets/f4e02bea-dd7d-4f26-b6c4-14d9de256f0f)
 
 
 ## Project Structure
