@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967818764814",
+    "project_id": "myapppp12",
+    "storage_bucket": "myapppp12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967818764814:android:9f7439819dd3086ff6d25f",
+        "android_client_info": {
+          "package_name": "com.example.chatconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7nL_0M_jcRvvLPtPOlTXfX_cuEH1HVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967818764814:android:7e074fca16ee9717f6d25f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7nL_0M_jcRvvLPtPOlTXfX_cuEH1HVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
