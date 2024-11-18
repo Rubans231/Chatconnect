@@ -96,6 +96,7 @@ Make sure you've added the Firebase plugin and necessary dependencies to your **
 1. Build the project in Android Studio by selecting Build > Make Project.
 2. Run the app on an emulator or connected device.
 3. Log in or register with a new account using the authentication screens.
+
 ![Screenshot 2024-11-18 204714](https://github.com/user-attachments/assets/aebbfa09-5759-4fb2-9c35-ca2541e4e902) ![Screenshot 2024-11-18 204858](https://github.com/user-attachments/assets/f4e02bea-dd7d-4f26-b6c4-14d9de256f0f)
 
 ## Screens
