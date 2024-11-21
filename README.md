@@ -28,7 +28,7 @@ The project consists of the following core components:
 * **AuthenticationView**: Handles user registration and login.
 * **RegisterView**: User interface for new user registration.
 * **LoginView**: User interface for existing users to log in.
-* *HomeView**: The main chat screen, displaying real-time messages.
+* **HomeView**: The main chat screen, displaying real-time messages.
 * **Firebase Integration**: Authentication and Firestore for data storage.
 * **NavHost**: Manages navigation between different screens of the app.
 
