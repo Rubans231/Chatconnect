@@ -104,7 +104,7 @@ Make sure you've added the Firebase plugin and necessary dependencies to your **
 * **Authentication Screen**: Displays buttons for logging in or registering a new user.
 * **Register Screen**: A form for entering the user's email and password for registration.
 * **Login Screen**: A form for entering login credentials.
-* **Home Screen**: The main screen where users can send and receive messages in real-time.
+* **Home Screen**: The main screen where users can send messages in real-time.
 
 ## Dependencies
 
