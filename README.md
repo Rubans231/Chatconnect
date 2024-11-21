@@ -1,6 +1,6 @@
 # ChatConnect - Basic Chatting App
 
-ChatConnect is a simple and interactive messaging application built using Jetpack Compose and Firebase. The app allows users to register, log in, and communicate in real-time with others. This project demonstrates core concepts of Android development, such as user authentication with Firebase, navigation, and modern UI with Jetpack Compose.
+ChatConnect is a simple and interactive messaging application built using Jetpack Compose and Firebase. The app allows users to register, log in, and communicate in real-time. This project demonstrates core concepts of Android development, such as user authentication with Firebase, navigation, and modern UI with Jetpack Compose.
 
 # Screenshots
 
