@@ -13,7 +13,7 @@ ChatConnect is a simple and interactive messaging application built using Jetpac
 
 Authentication: Users can register and log in using their email and password.
 
-Real-time Messaging: Send and receive messages instantly.
+Real-time Messaging: Send messages instantly.
 
 User Management: Sign up, log in, and navigate between screens.
 
